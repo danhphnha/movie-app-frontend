@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_users"
+        android:title="Quản lý User"
+        />
+    <item
+        android:id="@+id/nav_revenue"
+        android:title="Quản lý Doanh thu"
+        />
+    <item
+        android:id="@+id/nav_comments"
+        android:title="Quản lý bình luận" />
+</menu>
